@@ -1,7 +1,7 @@
 function App() {
   return (
     <center class="todo-container">
-      <h1>TODO-APP</h1>
+      <h1>TODO-App</h1>
       <div class="container text-center">
         <div class="row">
           <div class="col-4"> <input type="text" placeholder="enter todo list "/></div>
